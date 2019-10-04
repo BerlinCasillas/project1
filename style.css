@@ -1,0 +1,33 @@
+body {
+ background-color: #A4C7E1;
+}
+
+th{
+ width: 500px ;
+ height: 200px;
+ border: 8px dotted white ;
+ font-family: Roboto ;
+ font-size : 35px ;
+ margin: 5xp;
+}
+h1{
+	font-family: Roboto ;
+	font-size : 50px ;
+}
+h2 {
+	font-family: Roboto;
+	font-size : 25px ;
+}
+h3 {
+	font-family: Roboto;
+	font-size : 20px ;
+}
+
+<style>
+       .link:hover {
+      cursor: default;
+      }
+    </style>
+
+ 
+ 
